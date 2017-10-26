@@ -35,6 +35,14 @@
                 <td>
                     <asp:TextBox ID="txtnim" runat="server"></asp:TextBox>
                 </td>
+                
+                <tr>
+                <td class="auto-style6">Nim</td>
+                <td class="auto-style5">:</td>
+                <td>
+                    <asp:TextBox ID="txtnim" runat="server"></asp:TextBox>
+                </td>
+                    
             </tr>
             <tr>
                 <td class="auto-style6">Prodi</td>
