@@ -58,6 +58,14 @@
                     <asp:Button ID="Button1" runat="server" Text="Button" />
                 </td>
             </tr>
+            
+              <tr>
+                <td class="auto-style6">&nbsp;</td>
+                <td class="auto-style5">&nbsp;</td>
+                <td>
+                    <asp:Button ID="Button1" runat="server" Text="Button" />
+                </td>
+            </tr>
         </table>
     
     </div>
