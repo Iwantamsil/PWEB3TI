@@ -51,6 +51,15 @@
                     <asp:TextBox ID="txtprodi" runat="server"></asp:TextBox>
                 </td>
             </tr>
+            
+             <tr>
+                <td class="auto-style6">Prodi</td>
+                <td class="auto-style5">:</td>
+                <td>
+                    <asp:TextBox ID="txtprodi" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            
             <tr>
                 <td class="auto-style6">&nbsp;</td>
                 <td class="auto-style5">&nbsp;</td>
@@ -59,13 +68,6 @@
                 </td>
             </tr>
             
-              <tr>
-                <td class="auto-style6">&nbsp;</td>
-                <td class="auto-style5">&nbsp;</td>
-                <td>
-                    <asp:Button ID="Button1" runat="server" Text="Button" />
-                </td>
-            </tr>
         </table>
     
     </div>
